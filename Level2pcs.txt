@@ -1,0 +1,116 @@
+00 Central Nervous System and Cranial Nerves
+01 Peripheral Nervous System
+02 Heart and Great Vessels
+03 Upper Arteries
+04 Lower Arteries
+05 Upper Veins
+06 Lower Veins
+07 Lymphatic and Hemic Systems
+08 Eye
+09 Ear, Nose, Sinus
+0B Respiratory System
+0C Mouth and Throat
+0D Gastrointestinal System
+0F Hepatobiliary System and Pancreas
+0G Endocrine System
+0H Skin and Breast
+0J Subcutaneous Tissue and Fascia
+0K Muscles
+0L Tendons
+0M Bursae and Ligaments
+0N Head and Facial Bones
+0P Upper Bones
+0Q Lower Bones
+0R Upper Joints
+0S Lower Joints
+0T Urinary System
+0U Female Reproductive System
+0V Male Reproductive System
+0W Anatomical Regions, General
+0X Anatomical Regions, Upper Extremities
+0Y Anatomical Regions, Lower Extremities
+10 Pregnancy
+2W Anatomical Regions
+2Y Anatomical Orifices
+30 Circulatory
+3C Indwelling Device
+3E Physiological Systems and Anatomical Regions
+4A Physiological Systems
+4B Physiological Devices
+5A Physiological Systems
+6A Physiological Systems
+7W Anatomical Regions
+8C Indwelling Device
+8E Physiological Systems and Anatomical Regions
+8C Indwelling Device
+8E Physiological Systems and Anatomical Regions
+9W Anatomical Regions
+B0 Central Nervous System
+B2 Heart
+B3 Upper Arteries
+B4 Lower Arteries
+B5 Veins
+B7 Lymphatic System
+B8 Eye
+B9 Ear, Nose, Mouth and Throat
+BB Respiratory System
+BD Gastrointestinal System
+BF Hepatobiliary System and Pancreas
+BG Endocrine System
+BH Skin, Subcutaneous Tissue and Breast
+BL Connective Tissue
+BN Skull and Facial Bones
+BP Non-Axial Upper Bones
+BQ Non-Axial Lower Bones
+BR Axial Skeleton, Except Skull and Facial Bones
+BT Urinary System
+BU Female Reproductive System
+BV Male Reproductive System
+BW Anatomical Regions
+BY Fetus and Obstetrical
+C0 Central Nervous System
+C2 Heart
+C5 Veins
+C7 Lymphatic and Hematologic System
+C8 Eye
+C9 Ear, Nose, Mouth and Throat
+CB Respiratory System
+CD Gastrointestinal System
+CF Hepatobiliary System and Pancreas
+CG Endocrine System
+CH Skin, Subcutaneous Tissue and Breast
+CP Musculoskeletal System
+CT Urinary System
+CV Male Reproductive System
+CW Anatomical Regions
+D0 Central and Peripheral Nervous System
+D7 Lymphatic and Hematologic System
+D8 Eye
+D9 Ear, Nose, Mouth and Throat
+DB Respiratory System
+DD Gastrointestinal System
+DF Hepatobiliary System and Pancreas
+DG Endocrine System
+DH Skin
+DM Breast
+DP Musculoskeletal System
+DT Urinary System
+DU Female Reproductive System
+DV Male Reproductive System
+DW Anatomical Regions
+F0 Rehabilitation
+F1 Diagnostic Audiology
+GZ None
+HZ None
+X2 Cardiovascular System
+XD Gastrointestinal System
+XF Hepatobiliary System and Pancreas
+XH Skin, Subcutaneous Tissue, Fascia and Breast
+XK Muscles, Tendons, Bursae and Ligaments
+XN Bones
+XR Joints
+XT Urinary System
+XV Male Reproductive System
+XW Anatomical Regions
+XX Physiological Systems
+XY Extracorporeal

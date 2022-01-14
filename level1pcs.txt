@@ -1,0 +1,17 @@
+0 Medical and Surgical
+1 Obstetrics
+2 Placement
+3 Administration
+4 Measurement and Monitoring
+5 Extracorporeal or Systemic Assistance and Performance
+6 Extracorporeal or Systemic Therapies
+7 Osteopathic
+8 Other Procedures
+9 Chiropractic
+B Imaging
+C Nuclear Medicine
+D Radiation Therapy
+F Physical Rehabilitation and Diagnostic Audiology
+G Mental Health
+H Substance Abuse Treatment
+X New Technology
